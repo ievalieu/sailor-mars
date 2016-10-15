@@ -81,7 +81,24 @@ p{
 	padding: 1.5em;
 }
 br{
-	
+	font-size: 1em;
+}
+.row{
+	margin-left: auto;
+	margin-right: auto;
+}
+.col{
+	background: pink;
+	margin-left: auto;
+	margin-right: auto;
+	heig5t: 100%;
+	width: 5em;
+}
+img{
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /*Footer Section*/
